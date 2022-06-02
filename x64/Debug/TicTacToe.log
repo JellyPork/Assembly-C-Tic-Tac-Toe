@@ -1,0 +1,16 @@
+﻿  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(15,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(16,9): error C2065: 'mov': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(16,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(16,13): error C2065: 'eax': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'add'
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(17,9): error C2065: 'add': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(17,13): error C2065: 'eax': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(18,9): error C2065: 'mov': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(18,13): error C2146: syntax error: missing ';' before identifier 'puntajeNuevo'
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(18,27): error C2065: 'eax': undeclared identifier
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Form1.cpp(19,5): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

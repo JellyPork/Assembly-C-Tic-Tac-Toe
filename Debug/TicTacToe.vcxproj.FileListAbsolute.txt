@@ -1,0 +1,5 @@
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Debug\TicTacToe.vcxproj.SuggestedBindingRedirects.cache
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Debug\TicTacToe.Form1.resources
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Debug\TicTacToe.vcxproj.GenerateResource.cache
+D:\Files\UABC\6toSemestre\Org y Arq\Practicas\Assembly\TicTacToe\Debug\TicTacToe.exe
