@@ -19,3 +19,7 @@ And some functions are made in Assembly that allow the verification, score and t
 
 ![OWins](https://raw.githubusercontent.com/JellyPork/Assembly-C-Tic-Tac-Toe/main/Project%20Information/Screenshots/OWins.png)
 
+
+## Compiling and software used.
+
+Visual Studio 2022 was used for this project.
